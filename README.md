@@ -18,6 +18,7 @@ Adds various celestial bodies from hit game Garn47 along with a couple partially
 
 ## Mod Reccomendations
 - Config KSP Music https://github.com/Chitak985/config-ksp-music/tree/main
+- Scatterer
 
 ## Install Instructions
 1. Click the green 'Code' button
