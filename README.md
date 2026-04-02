@@ -12,6 +12,7 @@ Adds various celestial bodies from hit game Garn47 along with a couple partially
 - Abliss
 - Marigid
 - Earth
+- The Vendiat
 
 ## Mod Dependencies
 - Kopernicus
